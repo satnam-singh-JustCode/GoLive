@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679424687418",
+    "project_id": "golive-c517b",
+    "storage_bucket": "golive-c517b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679424687418:android:6822c6ab863f27a595e403",
+        "android_client_info": {
+          "package_name": "com.example.golive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679424687418-vicjbjrqmnpaqgj2t5tjpq33mk1g246l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnrCrz9b1prVzgGB2mLykhdjA07BkoIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679424687418-vicjbjrqmnpaqgj2t5tjpq33mk1g246l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
